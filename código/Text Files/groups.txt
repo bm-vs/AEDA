@@ -1,0 +1,23 @@
+3
+League of Legends
+2015 11 8
+3 0 1
+bruno 2015 11 8 0
+vasco 2015 11 8 0
+antonio 2015 11 8 0
+luis 2015 11 8 0
+tofran
+CS:GO
+2015 11 8
+2 1 1
+tofran 2015 11 8 0
+vasco 2015 11 8 0
+antonio 2015 11 8 0
+luis 2015 11 8 1
+bruno
+FEUP
+2015 11 8
+2 0 0
+antonio 2015 11 8 0
+bruno 2015 11 8 0
+luis 2015 11 8 0

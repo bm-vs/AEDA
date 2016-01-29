@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['getcellphone',['getCellphone',['../class_user.html#af9e651890f1aaaa40a9d867fcf88a8ee',1,'User']]],
+  ['getcontent',['getContent',['../class_message.html#a90a3115a2517f43ab8b087b4396661a9',1,'Message']]],
+  ['getdate',['getDate',['../class_group.html#a90be8e7e73baa1ed389382f0aa9ea59f',1,'Group']]],
+  ['getday',['getDay',['../class_date.html#a9114656893af6950f86e9438c9d01c77',1,'Date']]],
+  ['getemail',['getEmail',['../class_user.html#ac8a15550f3596a7ef13eb31b82a8ecf6',1,'User']]],
+  ['getgroupsender',['getGroupSender',['../class_message.html#a9caf7301abb9d1efd675a3265ac5369b',1,'Message']]],
+  ['gethour',['getHour',['../class_time.html#a4e9d93c2aaaac84b0a49f44184968860',1,'Time']]],
+  ['getjoindate',['getJoinDate',['../class_user.html#a50d3d0762e57ce18cae542229c98cf5e',1,'User']]],
+  ['getminute',['getMinute',['../class_time.html#a6ccac73be7aacc12410cea6b3d216357',1,'Time']]],
+  ['getmoderator',['getModerator',['../class_group.html#aca0667a821ecab06d809cdff7967003f',1,'Group']]],
+  ['getmonth',['getMonth',['../class_date.html#a378143c24ab06d9dd38712fc515056dc',1,'Date']]],
+  ['getname',['getName',['../class_user.html#a2b2a3d00d303affb4f5674bc9788db52',1,'User']]],
+  ['getpassword',['getPassword',['../class_user.html#a3f39e6b48da6b769692bf71f26104a6a',1,'User']]],
+  ['getsender',['getSender',['../class_message.html#a6b468317cbf2330970904904c323251b',1,'Message']]],
+  ['gettime',['getTime',['../class_message.html#ae24525a3075d6cff5d0164ca86812852',1,'Message']]],
+  ['gettitle',['getTitle',['../class_group.html#ac027ce1867930c6ef2080f9e0ea1a9ad',1,'Group']]],
+  ['gettype',['getType',['../class_message.html#af174e85e67b264c6f0853b5e044b237c',1,'Message']]],
+  ['getusername',['getUsername',['../class_user.html#a7d56e31eec5d536a35d6af9c99d4aab4',1,'User']]],
+  ['getyear',['getYear',['../class_date.html#acbe0df036d53e8ddcfa96523177bbd23',1,'Date']]],
+  ['group',['Group',['../class_group.html#a7b74f9ac68e0504ccf2e2854b7355ff1',1,'Group::Group()'],['../class_group.html#af712d513a4d67900f48fc998b2f04511',1,'Group::Group(string title, GroupUser *moderator, vector&lt; GroupUser * &gt; users, Date creation_date)']]],
+  ['groupsearch',['groupSearch',['../whatsapl_8cpp.html#a7a317ca97048066458a1da1e1ea3e0e1',1,'groupSearch(string title):&#160;whatsapl.cpp'],['../whatsapl_8cpp.html#af6f62cc2d302cd3c173c65a9a5477ebf',1,'groupSearch(vector&lt; Group * &gt; &amp;groups, Group *&amp;group):&#160;whatsapl.cpp'],['../whatsapl_8h.html#af6f62cc2d302cd3c173c65a9a5477ebf',1,'groupSearch(vector&lt; Group * &gt; &amp;groups, Group *&amp;group):&#160;whatsapl.cpp'],['../whatsapl_8h.html#a7a317ca97048066458a1da1e1ea3e0e1',1,'groupSearch(string title):&#160;whatsapl.cpp']]],
+  ['groupsmenu',['groupsMenu',['../ui_8cpp.html#a459c68177f93825a2db2896ccd83e49b',1,'groupsMenu():&#160;ui.cpp'],['../ui_8h.html#a459c68177f93825a2db2896ccd83e49b',1,'groupsMenu():&#160;ui.cpp']]],
+  ['groupuser',['GroupUser',['../class_group_user.html#a6c96a552b1df71b875633c1d0040bd9e',1,'GroupUser']]],
+  ['groupusersearch',['groupUserSearch',['../whatsapl_8cpp.html#a543b3fc2107e0eb22250cbbb2aa5b00f',1,'groupUserSearch(vector&lt; GroupUser * &gt; &amp;users, GroupUser *&amp;user):&#160;whatsapl.cpp'],['../whatsapl_8cpp.html#ada5f46d4f42e9776ebb8e7f29f0e847d',1,'groupUserSearch(vector&lt; GroupUser * &gt; &amp;users, string username):&#160;whatsapl.cpp'],['../whatsapl_8h.html#a543b3fc2107e0eb22250cbbb2aa5b00f',1,'groupUserSearch(vector&lt; GroupUser * &gt; &amp;users, GroupUser *&amp;user):&#160;whatsapl.cpp'],['../whatsapl_8h.html#ada5f46d4f42e9776ebb8e7f29f0e847d',1,'groupUserSearch(vector&lt; GroupUser * &gt; &amp;users, string username):&#160;whatsapl.cpp']]]
+];
